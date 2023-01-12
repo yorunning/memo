@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-31698685","path":"/linux/archlinux/","title":"ArchLinux安装","lang":"zh-CN","frontmatter":{"title":"ArchLinux安装","icon":"archlinux","description":""},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":1},"filePathRelative":null,"autoDesc":true}');export{t as data};
